@@ -1,2 +1,2 @@
 # Manishaweb
-directory if only for Manishaweb developers
+directory is only for Manishaweb developers
